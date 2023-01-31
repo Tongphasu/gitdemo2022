@@ -1,4 +1,4 @@
-# This is a sample change that will change the world
+# Just example
 
 How to take over the world
 
